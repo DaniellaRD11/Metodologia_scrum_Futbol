@@ -4,3 +4,17 @@
 ## **Fullstack | Proyecto Educativo | API REST + Interfaz Web**
 El Sistema de **Gestión de Torneos de Fútbol** es una aplicación diseñada para facilitar la **organización y administración de torneos deportivos**.
 El sistema permite registrar equipos, jugadores, programar partidos, registrar resultados y generar automáticamente la tabla de posiciones. Este proyecto busca mejorar la gestión de torneos, evitando procesos manuales y permitiendo un mejor control de la información.
+
+---
+
+![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo=github)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-8a2be2?style=for-the-badge)
+![Stack Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MySQL-ff007f?style=for-the-badge)
+![Stack Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20TailwindCSS-61dafb?style=for-the-badge)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+
+</div>
+
+---
+
+<h2 align="center"> Resumen del Proyecto </h2>
