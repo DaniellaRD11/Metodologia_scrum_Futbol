@@ -23,7 +23,8 @@ El sistema permite registrar equipos, jugadores, programar partidos, registrar r
 # 🎯 Objetivos
 ## Objetivo General
 Desarrollar un sistema que permita gestionar torneos de fútbol de manera organizada y eficiente.
-## Obketivos Epecificos
+
+## Objetivos Epecificos
 
 * Registrar equipos participantes en el torneo.
 * Registrar jugadores por equipo.
