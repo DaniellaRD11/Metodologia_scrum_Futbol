@@ -20,5 +20,5 @@ El Sistema de **Gestión de Torneos de Fútbol** es una aplicación diseñada pa
 El sistema permite registrar equipos, jugadores, programar partidos, registrar resultados y generar automáticamente la tabla de posiciones. Este proyecto busca mejorar la gestión de torneos, evitando procesos manuales y permitiendo un mejor control de la información.
 
 
-#🎯 Objetivos
-##Objetivo General
+# 🎯 Objetivos
+## Objetivo General
