@@ -34,12 +34,12 @@ Desarrollar un sistema que permita gestionar torneos de fútbol de manera organi
 * Permitir consultar resultados y estadísticas del torneo.
 
 # Usuarios del Sistema
-* Administrador de Sorteos
+* **Administrador de Sorteos**
    * Crear torneos.
    * Registrar equipos.
    * Programar partidos.
    * Registrar resultados.
-* Usuario
+* **Usuario**
    * Consultar Partidos.
    * Ver tablas de posiciones.
    * Ver resultados.
