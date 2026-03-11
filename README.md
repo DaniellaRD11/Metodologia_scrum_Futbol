@@ -41,17 +41,6 @@ Desarrollar un sistema que permita gestionar torneos de fútbol de manera organi
    * Consultar Partidos.
    * Ver tablas de posiciones.
    * Ver resultados.
-# Base de Datos
- El sistema utiliza **MariaDB** como gestor de base de datos para almacenar la información del torneo.
- * torneo
- * torneo-equipos
- * equipos
- * partidos
- * canchas
- * jugadores
- * tarjetas
- * usuarios
-Estas son todas las tablas que vas a encontrar en la base de datos.
 
 # ⚙️ Funcionalidades principales
 * Registro de equipos
@@ -86,3 +75,4 @@ JasperReports – Herramienta utilizada para la generación de reportes del sist
 * GitHub – Plataforma utilizada para alojar el repositorio del proyecto.
   
 # 📂 Estructura del proyecto
+ 
