@@ -8,8 +8,6 @@ El Sistema de **Gestión de Torneos de Fútbol** es una aplicación diseñada pa
 
 ![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo=github)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-8a2be2?style=for-the-badge)
-![Stack Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MySQL-ff007f?style=for-the-badge)
-![Stack Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20TailwindCSS-61dafb?style=for-the-badge)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 </div>
