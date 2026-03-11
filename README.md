@@ -1,0 +1,55 @@
+<div align="center">
+  
+#  Sistema Gestión de Torneos de Fútbol
+## **Fullstack | Proyecto Educativo | API REST + Interfaz Web**
+El Sistema de **Gestión de Torneos de Fútbol** es una aplicación diseñada para facilitar la **organización y administración de torneos deportivos**.
+
+---
+
+![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo=github)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-8a2be2?style=for-the-badge)
+![Stack Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MySQL-ff007f?style=for-the-badge)
+![Stack Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20TailwindCSS-61dafb?style=for-the-badge)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+
+</div>
+
+---
+
+<h2 align="center"> Resumen del Proyecto </h2>
+El sistema permite registrar equipos, jugadores, programar partidos, registrar resultados y generar automáticamente la tabla de posiciones. Este proyecto busca mejorar la gestión de torneos, evitando procesos manuales y permitiendo un mejor control de la información.
+
+
+# 🎯 Objetivos
+## Objetivo General
+Desarrollar un sistema que permita gestionar torneos de fútbol de manera organizada y eficiente.
+
+## Objetivos Epecíficos
+
+* Registrar equipos participantes en el torneo.
+* Registrar jugadores por equipo.
+* Programar los partidos del torneo.
+* Registrar resultados de los partidos.
+* Generar automáticamente la tabla de posiciones.
+* Permitir consultar resultados y estadísticas del torneo.
+
+# Usuarios del Sistema
+* **Administrador de Sorteos**
+   * Crear torneos.
+   * Registrar equipos.
+   * Programar partidos.
+   * Registrar resultados.
+* **Usuario**
+   * Consultar Partidos.
+   * Ver tablas de posiciones.
+   * Ver resultados.
+# Base de Datos
+ El sistema utiliza **MariaDB** como gestor de base de datos para almacenar la información del torneo.
+ * torneo
+ * torneo-equipos
+ * equipos
+ * partidos
+ * canchas
+ * jugadores
+ * tarjetas
+ * usuarios
