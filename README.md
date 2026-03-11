@@ -43,3 +43,5 @@ Desarrollar un sistema que permita gestionar torneos de fútbol de manera organi
    * Consultar Partidos.
    * Ver tablas de posiciones.
    * Ver resultados.
+# Base de Datos
+## El sistema utiliza **MariaDB** como gestor de base de datos para almacenar la información del torneo.
