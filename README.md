@@ -53,3 +53,4 @@ Desarrollar un sistema que permita gestionar torneos de fútbol de manera organi
  * jugadores
  * tarjetas
  * usuarios
+Estas son todas las tablas que vas a encontrar en la base de datos.
