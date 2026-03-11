@@ -52,3 +52,37 @@ Desarrollar un sistema que permita gestionar torneos de fútbol de manera organi
  * tarjetas
  * usuarios
 Estas son todas las tablas que vas a encontrar en la base de datos.
+
+# ⚙️ Funcionalidades principales
+* Registro de equipos
+* Registro de jugadores
+* Programación de partidos
+* Registro de resultados
+* Tabla de posiciones automática
+* Consulta reportes
+  
+#  Tecnologías utilizadas
+El sistema fue desarrollado utilizando las siguientes tecnologías:
+
+# **Backend**
+* Spring Boot – Framework para el desarrollo de aplicaciones backend en Java.
+* Java Development Kit – Entorno de desarrollo utilizado para ejecutar la aplicación.
+* Apache Maven – Herramienta para la gestión de dependencias y construcción del proyecto.
+
+**Base de Datos**
+* MariaDB – Sistema de gestión de base de datos utilizado para almacenar la información del torneo.
+
+**Reportes**
+JasperReports – Herramienta utilizada para la generación de reportes del sistema.
+# **Frontend**
+
+* HTML
+* CSS
+
+# **Control de Versiones**
+*Git – Sistema de control de versiones.
+
+# **Repositorio del Proyecto**
+* GitHub – Plataforma utilizada para alojar el repositorio del proyecto.
+  
+# 📂 Estructura del proyecto
